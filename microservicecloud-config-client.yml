@@ -1,6 +1,6 @@
 ﻿server:
   port: 8201
-  version: 5
+  version: 6
 spring:
   profiles: dev
   application:
